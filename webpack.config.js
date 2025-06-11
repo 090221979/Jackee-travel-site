@@ -21,7 +21,7 @@ module.exports =
         },
         hot:true,//allows webpack to inject the new CSS and JS into the browsers memory on the fly without reload or refresh
         port:5500,
-        liveReload:false
+        // liveReload:false
     },
     mode:"development",
     module:{

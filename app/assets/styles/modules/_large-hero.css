@@ -11,7 +11,7 @@
   &__text-content
   {
     top:50%;
-    left:0%;
+    left:2%;
     width:100%;
     text-align:center;
     transform:translateY(-50%);
@@ -42,7 +42,7 @@
     @mixin atSmall
     {
       font-size:2.9rem;
-      color:red;
+      color:#fff;
     }
 
 
